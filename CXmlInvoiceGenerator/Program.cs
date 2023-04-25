@@ -25,7 +25,7 @@ namespace CXmlInvoiceGenerator
 
             // The following is a very helpful resource for cXml:
 
-            //https://compass.coupa.com/en-us/products/product-documentation/supplier-resources/supplier-integration-resources/standard-invoice-examples
+            // https://compass.coupa.com/en-us/products/product-documentation/supplier-resources/supplier-integration-resources/standard-invoice-examples/sample-cxml-invoice-with-payment-terms
 
             // Assume the invoice is raised on the same day you find it, so PaymentTerms is from Today
 
